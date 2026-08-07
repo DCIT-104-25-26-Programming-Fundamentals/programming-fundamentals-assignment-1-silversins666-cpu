@@ -33,7 +33,7 @@
 
 # =============================================================================
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
-# =============================================================================
+# ====================================git config --global user.email "silversins666@gmail.com"=========================================
 def is_prime(n):
     if n < 2:
         return False
